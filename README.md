@@ -2,7 +2,10 @@
 
 ![](./assets/overview.png)
 
-🔍 Dive into the cutting-edge with this curated list of papers on **Vision Transformers (ViT) quantization and hardware acceleration**, featured in top-tier AI conferences and journals. This collection is meticulously organized and draws upon insights from our comprehensive survey 📑 (work in progress - stay tuned!).
+🔍 Dive into the cutting-edge with this curated list of papers on **Vision Transformers (ViT) quantization and hardware acceleration**, featured in top-tier AI conferences and journals. This collection is meticulously organized and draws upon insights from our comprehensive survey:
+
+[[Arxiv] Model Quantization and Hardware Acceleration for Vision
+Transformers: A Comprehensive Survey](https://arxiv.org/pdf/2405.00314)
 
 
 ## Table of Contents
@@ -91,3 +94,16 @@
 | 2023.10 | “An Integer-Only and Group-Vector Systolic Accelerator for Efficiently Mapping Vision Transformer on Edge” | [[TCAS-I’23]](https://ieeexplore.ieee.org/abstract/document/10288182?casa_token=oBpwMNaF8IMAAAAA:boTEPmhITligY_dJFfSbwJIR32BTXkRLt6OaKXGlqVJeVpoLcWX-t3zVueL6OOkRqgMjGefO4K1L438) | - |
 | 2023.10 | “SOLE: Hardware-Software Co-design of Softmax and LayerNorm for Efficient Transformer Inference” | [[ICCAD‘23]](https://ieeexplore.ieee.org/abstract/document/10323725?casa_token=8bAozNlkGyAAAAAA:fPTP7Za_-ZUqXrPAz8LJkFQjMZi25YHVRL6cV6SvV7z9wBXEna_vSlxcTlOTfVG8oIICJ_qf0YOtjCM) | - |
 |  |  |  |  |
+
+# Citation
+If you find our survey useful or relevant to your research, please kindly cite our paper:
+```
+@misc{du2024model,
+      title={Model Quantization and Hardware Acceleration for Vision Transformers: A Comprehensive Survey}, 
+      author={Dayou Du and Gu Gong and Xiaowen Chu},
+      year={2024},
+      eprint={2405.00314},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
