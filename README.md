@@ -12,7 +12,7 @@ Transformers: A Comprehensive Survey](https://arxiv.org/pdf/2405.00314)
 - [Accuracy Enhancement](#accuracy-enhancement)
     - [Activation Quantization Optimization](#activation-quantization-optimization)
     - [Calibration Optimization For PTQ](#calibration-optimization-for-ptq)
-    - [Gradient-base Otimization For QAT](#gradient-base-otimization-for-qat)
+    - [Gradient-base Optimization For QAT](#gradient-base-optimization-for-qat)
     - [Binary Quantization](#binary-quantization)
 - [Hardware Acceleration](#hardware-acceleration)
     - [Non-linear Operations Acceleration](#non-linear-operations-acceleration)
@@ -53,7 +53,7 @@ Transformers: A Comprehensive Survey](https://arxiv.org/pdf/2405.00314)
 |  |  |  |  |
 
 
-### Gradient-base Otimization For QAT
+### Gradient-base Optimization For QAT
 | Date | Title | Paper | Code |
 | --- | --- | --- | --- |
 | 2022.01 | “TerViT: An Efficient Ternary Vision Transformer” | [[Arxiv]](https://arxiv.org/abs/2201.08050) | - |
