@@ -12,7 +12,7 @@ Transformers: A Comprehensive Survey](https://arxiv.org/pdf/2405.00314)
 - [Accuracy Enhancement](#accuracy-enhancement)
     - [Activation Quantization Optimization](#activation-quantization-optimization)
     - [Calibration Optimization For PTQ](#calibration-optimization-for-ptq)
-    - [Gradient-base Optimization For QAT](#gradient-base-optimization-for-qat)
+    - [Gradient-base Otimization For QAT](#gradient-base-otimization-for-qat)
     - [Binary Quantization](#binary-quantization)
 - [Hardware Acceleration](#hardware-acceleration)
     - [Non-linear Operations Acceleration](#non-linear-operations-acceleration)
@@ -34,6 +34,7 @@ Transformers: A Comprehensive Survey](https://arxiv.org/pdf/2405.00314)
 | 2024.01 | “MPTQ-ViT: Mixed-Precision Post-Training Quantization for Vision Transformer” | [[Arxiv]](https://arxiv.org/abs/2401.14895) | - |
 | 2024.01 | “LRP-QViT: Mixed-Precision Vision Transformer Quantization via Layer-wise Relevance Propagation” | [[Arxiv]](https://arxiv.org/abs/2401.11243) | - |
 | 2024.02 | “RepQuant: Towards Accurate Post-Training Quantization of Large Transformer Models via Scale Reparameterization” | [[Arxiv]](https://arxiv.org/abs/2402.05628) | - |
+| 2024.04 | “Instance-Aware Group Quantization for Vision Transformers” | [[Arxiv]](https://arxiv.org/abs/2402.05https://arxiv.org/pdf/2404.00928) | - |
 | 2024.05 | “P^2-ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer” | [[Arxiv]](https://arxiv.org/pdf/2405.19915) | [[code]](https://github.com/shihuihong214/P2-ViT)|
 |  |  |  |  |
 
@@ -50,6 +51,7 @@ Transformers: A Comprehensive Survey](https://arxiv.org/pdf/2405.00314)
 | 2023.05 | “Finding Optimal Numerical Format for Sub-8-Bit Post-Training Quantization of Vision Transformers” | [[ICASSP‘23]](https://ieeexplore.ieee.org/abstract/document/10096798?casa_token=zcvT_bqlcWMAAAAA:huDCjkno08m8uyqt8nxwCsOOIlbUepw45TRVb0jsBolA06tUD07FpvcqusUDcFR8ygthcX3syipYx2c) | - |
 | 2023.08 | “Jumping through Local Minima: Quantization in the Loss Landscape of Vision Transformers” | [[ICCV’23]](https://arxiv.org/abs/2308.10814) | [[code]](https://github.com/enyac-group/evol-q)|
 | 2023.10 | “LLM-FP4: 4-Bit Floating-Point Quantized Transformers” | [[EMNLP‘23]](https://arxiv.org/abs/2310.16836) | [[code]](https://github.com/nbasyl/LLM-FP4)|
+| 2024.05 | “P^2-ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer” | [[Arxiv]](https://arxiv.org/pdf/2405.19915) | [[code]](https://github.com/shihuihong214/P2-ViT)|
 |  |  |  |  |
 
 
@@ -86,6 +88,7 @@ Transformers: A Comprehensive Survey](https://arxiv.org/pdf/2405.00314)
 | 2023.06 | “Practical Edge Kernels for Integer-Only Vision Transformers Under Post-training Quantization” | [[MLSYS’23]](https://proceedings.mlsys.org/paper_files/paper/2023/hash/023560744aae353c03f7ae787f2998dd-Abstract-mlsys2023.html) | - |
 | 2023.10 | “SOLE: Hardware-Software Co-design of Softmax and LayerNorm for Efficient Transformer Inference” | [[ICCAD‘23]](https://ieeexplore.ieee.org/abstract/document/10323725?casa_token=8bAozNlkGyAAAAAA:fPTP7Za_-ZUqXrPAz8LJkFQjMZi25YHVRL6cV6SvV7z9wBXEna_vSlxcTlOTfVG8oIICJ_qf0YOtjCM) | - |
 | 2023.12 | “PackQViT: Faster Sub-8-bit Vision Transformers via Full and Packed Quantization on the Mobile” | [[NIPS’23]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1c92edb990a05f2269f0cc3afbb4c952-Abstract-Conference.html) | - |
+| 2024.05 | “P^2-ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer” | [[Arxiv]](https://arxiv.org/pdf/2405.19915) | [[code]](https://github.com/shihuihong214/P2-ViT)|
 |  |  |  |  |
 
 ### Hardware Accelerator
@@ -95,6 +98,7 @@ Transformers: A Comprehensive Survey](https://arxiv.org/pdf/2405.00314)
 | 2022.08 | “Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization” | [[FPL‘22]](https://arxiv.org/abs/2208.05163) | - |
 | 2023.10 | “An Integer-Only and Group-Vector Systolic Accelerator for Efficiently Mapping Vision Transformer on Edge” | [[TCAS-I’23]](https://ieeexplore.ieee.org/abstract/document/10288182?casa_token=oBpwMNaF8IMAAAAA:boTEPmhITligY_dJFfSbwJIR32BTXkRLt6OaKXGlqVJeVpoLcWX-t3zVueL6OOkRqgMjGefO4K1L438) | - |
 | 2023.10 | “SOLE: Hardware-Software Co-design of Softmax and LayerNorm for Efficient Transformer Inference” | [[ICCAD‘23]](https://ieeexplore.ieee.org/abstract/document/10323725?casa_token=8bAozNlkGyAAAAAA:fPTP7Za_-ZUqXrPAz8LJkFQjMZi25YHVRL6cV6SvV7z9wBXEna_vSlxcTlOTfVG8oIICJ_qf0YOtjCM) | - |
+| 2024.05 | “P^2-ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer” | [[Arxiv]](https://arxiv.org/pdf/2405.19915) | [[code]](https://github.com/shihuihong214/P2-ViT)|
 |  |  |  |  |
 
 # Citation
