@@ -34,6 +34,7 @@ Transformers: A Comprehensive Survey](https://arxiv.org/pdf/2405.00314)
 | 2024.01 | “MPTQ-ViT: Mixed-Precision Post-Training Quantization for Vision Transformer” | [[Arxiv]](https://arxiv.org/abs/2401.14895) | - |
 | 2024.01 | “LRP-QViT: Mixed-Precision Vision Transformer Quantization via Layer-wise Relevance Propagation” | [[Arxiv]](https://arxiv.org/abs/2401.11243) | - |
 | 2024.02 | “RepQuant: Towards Accurate Post-Training Quantization of Large Transformer Models via Scale Reparameterization” | [[Arxiv]](https://arxiv.org/abs/2402.05628) | - |
+| 2024.05 | “P^2-ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer” | [[Arxiv]](https://arxiv.org/pdf/2405.19915) | [[code]](https://github.com/shihuihong214/P2-ViT)|
 |  |  |  |  |
 
 
@@ -71,6 +72,7 @@ Transformers: A Comprehensive Survey](https://arxiv.org/pdf/2405.00314)
 | 2022.11 | “BiViT: Extremely Compressed Binary Vision Transformer” | [[ICCV’23]](https://arxiv.org/abs/2211.07091) | - |
 | 2023.05 | “BinaryViT: Towards Efficient and Accurate Binary Vision Transformers” | [[Arxiv]](https://arxiv.org/abs/2305.14730) | - |
 | 2023.06 | “BinaryViT: Pushing Binary Vision Transformers Towards Convolutional Models” | [[CVPR‘23]](https://arxiv.org/abs/2306.16678) | [[code]](https://github.com/Phuoc-Hoan-Le/BinaryViT) |
+| 2024.05 | “BinaryFormer: A Hierarchical-Adaptive Binary Vision Transformer (ViT) for Efficient Computing” | [[TII]](https://ieeexplore.ieee.org/abstract/document/10531134?casa_token=8Y4nHEENrzYAAAAA:tYGQaHeU7WzXjTT06itL5j79mww5rm2hmCdOWI7nSA4gNwukJaLqMV3oYjmsqMT7Xfk_r5PRruMt_8k) | - |
 |  |  |  |  |
 
 
